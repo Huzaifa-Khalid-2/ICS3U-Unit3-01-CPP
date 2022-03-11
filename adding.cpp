@@ -24,4 +24,6 @@ int main() {
     // output
     std::cout << "" << std::endl;
     std::cout << number1 << " + " << number2 << " = " << sum << std::endl;
+    std::cout << "" << std::endl;
+    std::cout << "Done." << std::endl;
 }
